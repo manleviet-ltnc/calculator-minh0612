@@ -1,0 +1,27 @@
+D:\C#Project\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\C#Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\C#Project\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\C#Project\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\C#Project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\C#Project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\C#Project\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\C#Project\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\KIEU VU ANH T U\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Anh Tu\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Anh Tu\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Anh Tu\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Anh Tu\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Anh Tu\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Anh Tu\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Anh Tu\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+D:\Anh Tu\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Anh Tu\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\Programs\Calculator_\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\DELL\Downloads\Programs\Calculator_\Calculator\Calculator\obj\Debug\Calculator.pdb
